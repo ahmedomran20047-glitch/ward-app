@@ -1,0 +1,12 @@
+{
+  "appId": "com.ward.quran",
+  "appName": "وِرْد",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#0d4f3c"
+    }
+  }
+}
